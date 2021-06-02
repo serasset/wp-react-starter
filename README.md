@@ -1,6 +1,8 @@
 # WP React Starter: WordPress React Boilerplate
 
-<img align="right" src="https://matthias-web.com/wp-content/uploads/WP-React-Starter/Git/wp-react-starter-logo.png" alt="WP React Starter Logo" height="180" />
+> **DEPRECATED**: WP React Starter was a "research project" of [devowl.io](https://devowl.io/) for the development of our WordPress plugins. Unfortunately, we don't have enough resources to regularly contribute the developments of our private monorepo to WP React Starter. You are welcome to continue using or forking this project, but it will no longer be updated or extended with new features, structures, etc.
+
+<img align="right" src="https://assets.devowl.io/git/wp-react-starter/logo.png" alt="WP React Starter Logo" height="180" />
 
 Create (multiple) WordPress plugins that use **React**, **TypeScript**, and **object-oriented PHP** in a fully customizable **Docker** development environment, commited in a **monorepo**.
 
@@ -166,4 +168,4 @@ Thank you for your interest in WP React Starter. This boilerplate was developed 
 
 We would like to share our knowledge and solution with you to make the development of WordPress plugins more professional. **But we are even happier if you also share your knowledge to make this project even better.**
 
-WP React Starter is licensed partly under `GPL-3.0-or-later` and partly under our [WordPress Product Licence Agreement](https://devowl.io/wordpress-product-licence-agreement/). Therefore you have to [**get a license**](https://devowl.io/wp-react-starter/licence/) to develop high-quality WordPress plugins at light speed with WP React Starter in real projects. **But don't worry, it's free to use for all non-commercial WordPress plugins** and we've done our best to create a fair license fee model whereby you only pay something if your WordPress plugin already generates a good revenue for you.
+WP React Starter is licensed partly under [GNU General Public License v3.0 (GPL v3.0 or later)](https://www.gnu.org/licenses/gpl-3.0.en.html) and partly under our [ISC License (ISC)](https://opensource.org/licenses/ISC). Feel free to develop high-quality WordPress plugins at light speed with WP React Starter in real projects. **Don't worry, it's free to use for all non-commercial and commercial WordPress plugins!**
